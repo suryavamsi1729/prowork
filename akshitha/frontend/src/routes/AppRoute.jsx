@@ -2,7 +2,7 @@ import { createBrowserRouter } from "react-router-dom";
 import ErrorPage from "../pages/error/ErrorPage";
 import Home from "../pages/home/Home";
 import LoginPage from "../pages/Login/LoginPage";
-import SignupPage from "../pages/signup/SignUPPage";
+import SignupPage from "../pages/signup/SignupPage";
 export const AppRouter = createBrowserRouter([
     {
         path:"/signin",
